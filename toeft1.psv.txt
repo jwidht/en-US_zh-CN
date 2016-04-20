@@ -1,3 +1,4 @@
+quiz.properties|name=TOEFL, Set 1~~q_lang=en-US~~a_lang=zh-CN~~fontsize_q=30~~fontsize_a=30~~skipaudiomode=3
 abundant~~(a.)|大量的
 accelerate~~(v.)|加速；加大
 accessible~~(a.)|可用的
@@ -238,7 +239,6 @@ gambit~~(n.)|策略；谋略
 gap~~(n.)|缺口；缝隙
 give way to ~~(v.)|让位；变成
 glowing~~(a.)|光亮的
-quiz.properties|name=TOEFL, Set 1~~q_lang=en-US~~a_lang=zh-CN~~fontsize_q=30~~fontsize_a=30~~skipaudiomode=0
 good name~~(n.)|名声；名誉
 graphic~~(a.)|生动的
 grumbled~~(v.)|抱怨
